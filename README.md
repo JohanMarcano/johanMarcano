@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I am Johan Marcano 👨‍💻
+---
 
-<!--
-**JohanMarcano/johanMarcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome to my Github! I like to write in Javascript Code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const johan = {
+    code: ["Javascript"],
+    askMeAbout: ["Web dev", "Tech", "Web design"],
+    technologies: {
+        frontEnd: {
+            js: ["ReactJs"],
+            css: ["Material UI", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["NodeJs"],
+        },
+        devOps: [" "],
+        databases: ["MySql"],
+        misc: ["Git", "Github"]
+    },
+    architecture: ["Single Page Applications"],
+    currentFocus: "NodeJs",
+    funFact: "Javascript saved my life",
+    communities: {
+        facebook: ["Front End Chile", "React Chile", "Backend Chile"]
+    }
+};
