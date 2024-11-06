@@ -19,9 +19,9 @@ const johan = {
         databases: ["MySql"],
         misc: ["Git", "Github"]
     },
-    architecture: ["Single Page Applications"],
+    architecture: ["Single page applications"],
     currentFocus: "NodeJs",
-    funFact: "Javascript saved my life",
+    funFact: "I love reading",
     communities: {
         facebook: ["Front End Chile", "React Chile", "Backend Chile"]
     }
